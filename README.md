@@ -23,7 +23,7 @@
 * Phone
 
 #### Note
-* Solution for assignment is to be develop using React and Redux
+* Solution for assignment is to be develop using any framework or lib you are comfortable with - Plus points for doing it in React and Redux
 * Solution for assignment should be uploaded to git repo and repo link should be shared with us for code review.
 * Adding a README file for repo is mandatory and README should have steps to run code.
 * Only Javascript code will checked in code review. We are not concern about HTML styling.
