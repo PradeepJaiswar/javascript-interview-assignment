@@ -1,4 +1,4 @@
-# Javascript Interview Assignment For React Using Redux
+# Javascript Interview Assignment For Greyatom.com
 
 ## Tasks
 
